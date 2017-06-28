@@ -27,7 +27,6 @@
     "neutrino": "^6.1.1",
     "neutrino-middleware-minify": "^6.1.1",
     "neutrino-preset-jest": "^6.1.1",
-    "neutrino-preset-node": "^6.1.1",
-    "neutrino-preset-standard": "^5.8.0"
+    "neutrino-preset-node": "^6.1.1"
   }
 }
