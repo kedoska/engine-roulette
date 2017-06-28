@@ -17,3 +17,7 @@ Contribute with
  - or by making tests using [Jest](http://facebook.github.io/jest/docs/en/using-matchers.html)
  - or improving the build process using [Neutrino](https://neutrino.js.org/)
  - or making better [flow](https://flow.org/) types
+
+## License
+
+MIT
