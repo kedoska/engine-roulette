@@ -1,6 +1,9 @@
 engine-roulette
 ===============
 
+[![Build Status](https://travis-ci.org/kedoska/engine-roulette.svg?branch=master)](https://travis-ci.org/kedoska/engine-roulette)
+
+
 Currently only an intent of create a static and functional oriented library able to calculate (American) Roulette.
 
 List of references and online materials:
